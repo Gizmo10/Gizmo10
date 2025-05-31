@@ -64,7 +64,19 @@ Experienced in the front-end and back-end of a service, writing clean and reusab
 ---
 
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> CONTACT
-[![LinkedIn]((https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logoColor=white))](www.linkedin.com/in/sibusisowandandzala)
+<div id="badges">
+  <a href="mailto:sw.ndzala@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="GMail Badge"/>
+  </a>
+ 
+  <a href="https://www.linkedin.com/in/sibusisowandandzala" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://wa.me/+27635223907" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+</div>
 
 <!--
 **Gizmo10/Gizmo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
